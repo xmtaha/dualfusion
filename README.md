@@ -26,7 +26,7 @@ DualFusion, dizi bölümleri için orijinal ve Türkçe dublaj sesleri birleşti
 ## Kullanım
 1. Uygulamayı başlatın:
    ```bash
-   python main.py
+   python dualfusion.py
    ```
 2. Dizi bölümü, ses ve altyazı dosyalarını sürükleyip bırakın.
 3. Ses modunu ve gecikmeyi seçin.
